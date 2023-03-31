@@ -1,6 +1,6 @@
 Name:		texlive-fithesis
 Version:	64135
-Release:	1
+Release:	2
 Summary:	Thesis class and template for Masaryk University (Brno, Czech Republic)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fithesis
