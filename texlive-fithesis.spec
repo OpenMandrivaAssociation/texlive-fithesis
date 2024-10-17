@@ -3,7 +3,7 @@ Version:	70531
 Release:	1
 Summary:	Thesis class and template for Masaryk University (Brno, Czech Republic)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fithesis
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/fithesis
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fithesis.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/fithesis.doc.r%{version}.tar.xz
